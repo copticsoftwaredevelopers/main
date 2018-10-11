@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the Coptic Software Development Group
 
-You can use the [editor on GitHub](https://github.com/copticsoftwaredevelopers/main/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### We are looking for contributors from the coptic church, to join us and help develop next generation software to glorify our lord Jesus and the bible:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are looking for contributors who can:
+1. Have ideas for programs, apps, or softwares to develop for the church
+2. Software Developers
+3. QA and Testers
+4. Graphics Designers and Artists
+5. Cordinators and project managers
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## We can work on any software ideas, such as programs, computer games, graphics and automations tools, Please send us your ideas of projects to develop, and we will add it to our list.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/copticsoftwaredevelopers/main/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
